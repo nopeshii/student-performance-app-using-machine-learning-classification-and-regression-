@@ -9,7 +9,9 @@ This project predicts student academic performance using Machine Learning techni
 
 Students Performance Dataset (Kaggle)
 
-## Algorithms Used
+
+🌐 Live Demo
+👉 https://student-performance-mal.streamlit.app/
 
 ### Regression
 
